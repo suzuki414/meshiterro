@@ -3,6 +3,5 @@ class HomesController < ApplicationController
   end
 
   def about
-    # render"homes/about"
   end
 end
